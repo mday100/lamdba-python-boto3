@@ -1,0 +1,3 @@
+GET https://t74yr8kb87.execute-api.us-east-1.amazonaws.com/Prod/cart/add
+GET https://t74yr8kb87.execute-api.us-east-1.amazonaws.com/Prod/cart/purchase
+GET https://t74yr8kb87.execute-api.us-east-1.amazonaws.com/Prod/products/123456
